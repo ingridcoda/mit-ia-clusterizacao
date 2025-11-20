@@ -1,11 +1,15 @@
-# mit-ia-clusterizacao
+# Projeto de Clusterização de Dados
 
 Projeto da disciplina de Algoritmos de Inteligência Artificial para Clusterização, segunda disciplina do Módulo 4 - Clusterização de Dados, sendo esse o último módulo da [Pós-Graduação MIT em Inteligência Artificial, Machine Learning e Deep Learning](https://posgraduacao.infnet.edu.br/ead/pos-graduacao-machine-learning-deep-learning-curso-deep-learning/) do [Instituto Infnet](https://www.infnet.edu.br/infnet/instituto/).
+
 O projeto envolve análise exploratória, pré-processamento, aplicação dos algoritmos K-Means, K-Medoids, Hierárquico, DBSCAN e respostas teóricas sobre os métodos utilizados.
-Desenvolvido pela aluna Ingrid Coda.
+
+Desenvolvido pela aluna [Ingrid Coda](https://infnet.online/members/ingrid_codahotmail-com-2/).
+
 ---
 
 ## Enunciado do Projeto
+
 ##### (O enunciado pode ser encontrado no [Moodle da disciplina](https://lms.infnet.edu.br/moodle/mod/assign/view.php?id=461649))
 
 > **Algoritmos de Inteligência Artificial para Clusterização — Projeto da Disciplina**

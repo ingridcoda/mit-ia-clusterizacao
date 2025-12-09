@@ -61,5 +61,4 @@ Desenvolvido pela aluna [Ingrid Coda](https://infnet.online/members/ingrid_codah
 3. Instale as dependências listadas no arquivo `requirements.txt`.
 4. Baixe o dataset "Country-data.csv" do Kaggle e coloque-o na pasta apropriada, ou configure sua API do Kaggle para download automático.
 5. Execute o notebook principal (`IngridOrnellasCodaSantAnnaGomes_ValidacaoDeModelosDeClusterizacao_pd.ipynb`) utilizando Jupyter Lab, Jupyter Notebook ou em alguma IDE compatível de sua preferência.
-6. As saídas dos experimentos serão salvas na pasta de resultados.
 

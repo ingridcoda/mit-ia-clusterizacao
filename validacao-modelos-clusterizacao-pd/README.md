@@ -1,6 +1,6 @@
 # Projeto: Validação de Modelos de Clusterização
 
-Projeto da disciplina de **Validação de Modelos de Clusterização**, terceira disciplina do Módulo 4 da [Pós-Graduação MIT em Inteligência Artificial, Machine Learning e Deep Learning](https://posgraduacao.infnet.edu.br/ead/pos-graduacao-machine-learning-deep-learning-curso-deep-learning/) do [Instituto Infnet](https://www.infnet.edu.br/infnet/instituto/).
+Projeto da disciplina de **Validação de Modelos de Clusterização**, segunda disciplina do Módulo 4 da [Pós-Graduação MIT em Inteligência Artificial, Machine Learning e Deep Learning](https://posgraduacao.infnet.edu.br/ead/pos-graduacao-machine-learning-deep-learning-curso-deep-learning/) do [Instituto Infnet](https://www.infnet.edu.br/infnet/instituto/).
 
 O projeto abrange a infraestrutura de desenvolvimento, escolha e análise exploratória de base de dados, aplicação e validação de algoritmos (K-Means e DBSCAN) e resolução de problemas teóricos sobre similaridade em séries temporais.
 
